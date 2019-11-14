@@ -1,13 +1,15 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy").each_with_index { |item, index|
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+def summon_captain_planet(planeteer_calls)
+planeteer_calls.map!{|i| i + "!"}
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+short_words=["puff", "go", "two",]
+def long_planeteer_calls(short_words)
+  assorted_words = []
+  
 end
 
 def find_the_cheese# code an argument here
