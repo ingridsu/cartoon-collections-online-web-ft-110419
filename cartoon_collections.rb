@@ -1,4 +1,4 @@
-def roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy").each_with_index { |item, index|
+def roll_call_dwarves("Doc", "Dopey", "Bashful", "Grumpy").each_with_index { |item, index|
 end
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
