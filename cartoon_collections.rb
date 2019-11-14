@@ -14,6 +14,7 @@ long_planeteer_calls(assorted_words)
  end
 end
 
-def find_the_cheese
+snacks = ["crackers", "gouda", "thyme"]
+def find_the_cheese(Snacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
