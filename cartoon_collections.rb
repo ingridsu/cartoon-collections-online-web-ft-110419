@@ -20,5 +20,5 @@ def find_the_cheese(Snacks)
   cheese_types.index(a)
   ingredients = ["garlic", "rosemary", "bread"]
 find_the_cheese(ingredients)
-ingredients.indclude
+ingredients.indclude( #{cheese_types})
 end
