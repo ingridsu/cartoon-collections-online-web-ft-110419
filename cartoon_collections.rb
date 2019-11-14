@@ -18,4 +18,6 @@ snacks = ["crackers", "gouda", "thyme"]
 def find_the_cheese(Snacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.index(a)
+  ingredients = ["garlic", "rosemary", "bread"]
+find_the_cheese(ingredients)
 end
